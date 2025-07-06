@@ -361,19 +361,19 @@ export default function Portfolio() {
             <div className="space-y-6">
               <div className="glass-effect rounded-2xl p-8 hover:bg-white hover:bg-opacity-10 transition-all duration-300">
                 <p className="text-gray-300 text-lg leading-relaxed">
-                  I like breaking things to understand how they work—whether it's code, systems, or ideas. That curiosity naturally pulled me into cybersecurity.
+                  I like breaking things to understand how they work—whether it&rsquo;s code, systems, or ideas. That curiosity naturally pulled me into cybersecurity.
                 </p>
               </div>
               
               <div className="glass-effect rounded-2xl p-8 hover:bg-white hover:bg-opacity-10 transition-all duration-300">
                 <p className="text-gray-300 text-lg leading-relaxed">
-                  I'm not a pro (yet), but I'm not here to watch from the sidelines either. I'm doing CTFs, digging into labs, and building up my skills one shell, one exploit, one log at a time. No shortcuts. No fake flexing.
+                  I&rsquo;m not a pro (yet), but I&rsquo;m not here to watch from the sidelines either. I&rsquo;m doing CTFs, digging into labs, and building up my skills one shell, one exploit, one log at a time. No shortcuts. No fake flexing.
                 </p>
               </div>
               
               <div className="glass-effect rounded-2xl p-8 hover:bg-white hover:bg-opacity-10 transition-all duration-300">
                 <p className="text-gray-300 text-lg leading-relaxed">
-                  Beyond tech, I'm someone who enjoys building systems, understanding how complex things tick, and going deep into things that others skim past.
+                  Beyond tech, I&rsquo;m someone who enjoys building systems, understanding how complex things tick, and going deep into things that others skim past.
                 </p>
               </div>
             </div>
@@ -538,7 +538,7 @@ export default function Portfolio() {
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-12">
             <h3 className="text-3xl font-bold mb-4 gradient-text">
-              Let's Connect!
+              Let&rsquo;s Connect!
             </h3>
             <p className="text-gray-400 text-lg max-w-2xl mx-auto">
               Ready to connect and collaborate on exciting projects! Feel free to reach out if you want to discuss cybersecurity, development, or just have a chat.
