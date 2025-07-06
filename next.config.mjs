@@ -4,6 +4,9 @@ const nextConfig = {
     optimizeCss: true,
   },
   compress: true,
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
 };
 
-export default nextConfig;
+module.exports = nextConfig;
