@@ -104,7 +104,7 @@ export default function Portfolio() {
     {
       title: 'CompFest 16 Universitas Indonesia – CTF Participant',
       institution: 'Universitas Indonesia',
-      date: '09/2023',
+      date: '09/2024',
       color: 'from-red-400 to-pink-400',
       url: 'https://drive.google.com/file/d/1CmvZpLwVZNwV6KqZTSL1wf9a6n1bArH0/view?usp=sharing'
     },
@@ -120,7 +120,7 @@ export default function Portfolio() {
       institution: 'Hack The Box',
       date: '12/2024',
       color: 'from-yellow-400 to-orange-400',
-      url: 'https://www.hackthebox.com'
+      url: 'https://drive.google.com/file/d/18W3Vde-pmWrNFBXSxL1aBnPwaxtCBm_7/view?usp=sharing'
     }
   ];
 
